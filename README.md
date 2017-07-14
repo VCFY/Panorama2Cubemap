@@ -1,6 +1,6 @@
 # Panorama To Cubemap
 
-https://jaxry.github.io/panorama-to-cubemap/
+https://vcfy.github.io/Panorama2Cubemap/
 
 A web app which converts 360° panoramas to six cube faces
 
